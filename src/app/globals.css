@@ -1,3 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.dividerCircle{
+    box-shadow: inset 2px 2px 7px #efeeee;
+}
