@@ -5,3 +5,7 @@
 .dividerCircle{
     box-shadow: inset 2px 2px 7px #efeeee;
 }
+
+.dark\.darkDividerCircle{
+    box-shadow: inset 2px 2px 7px #3a3a3a;
+}
